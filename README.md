@@ -27,4 +27,4 @@ This project implements a dynamic slider and coupon generator using jQuery. The 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/Smart-Recommender.git
+   git clone https://github.com/your-username/Smart-Recommander.git
